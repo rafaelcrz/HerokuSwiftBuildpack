@@ -11,7 +11,7 @@ CACHE_DIR=$2
 ENV_DIR=$3
 
 # Language versions specification
-SWIFT_VERSION="4.2.1"
+SWIFT_VERSION="5.2.0"
 C_LANG_VERSION="7.0.0"
 
 # Downloads URLs
